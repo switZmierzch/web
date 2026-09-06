@@ -37,6 +37,7 @@ body {
     height: 625px;
     background: var(--header-image);
     background-size: 100%;
+    background-repeat: no-repeat;
 }
 #mainNavBar {
     background-color: black;
