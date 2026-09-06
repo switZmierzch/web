@@ -224,7 +224,7 @@ background:0 0;
 
 .nAU {
             border-radius:20px;
-            border-image: url(pulpinegrin1.png) round;
+            border: var('--header-image') round;
             border-image-slice: 30;
             border-image-slice:  713 466 780 466;
             border-image-width: 300px 200px 300px 200px;
